@@ -10,6 +10,21 @@
     <title>Index</title>
 </head>
 <body>
-    Welcome from <b>Index View</b> of <b>Home Controller</b>
+    <div class="container">
+        <form method="post" asp-action="ReceivedDataByRequest">
+            <div class="form-group">
+                <label>Name:</label>
+                <input class="form-control" name="name" />
+            </div>
+            <div class="form-group">
+                <label>Sex:</label>
+                <select class="form-control" name="sex">
+                    <option value="M">Male</option>
+                    <option value="F">Female</option>
+                </select>
+            </div>
+            <button class="btn btn-primary" type="submit">Submit</button>
+        </form>
+    </div>
 </body>
 </html>
