@@ -28,3 +28,5 @@
 /Users/vimalraveendran/Desktop/ASP.netCore/UnderstandingControllers/UnderstandingControllers/obj/Debug/netcoreapp3.1/UnderstandingControllers.pdb
 /Users/vimalraveendran/Desktop/ASP.netCore/UnderstandingControllers/UnderstandingControllers/obj/Debug/netcoreapp3.1/UnderstandingControllers.genruntimeconfig.cache
 /Users/vimalraveendran/Desktop/ASP.netCore/UnderstandingControllers/UnderstandingControllers/obj/Debug/netcoreapp3.1/UnderstandingControllers.csproj.CopyComplete
+/Users/vimalraveendran/Desktop/ASP.netCore/UnderstandingControllers/UnderstandingControllers/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/vimalraveendran/Desktop/ASP.netCore/UnderstandingControllers/UnderstandingControllers/obj/Debug/netcoreapp3.1/Razor/Views/Home/ReceivedDataByRequest.cshtml.g.cs
