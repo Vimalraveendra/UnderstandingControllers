@@ -8,6 +8,8 @@
     <None Remove="Controllers\" />
     <None Remove="Views\" />
     <None Remove="Views\Home\" />
+    <None Remove="Cake.LibMan" />
+    <None Remove="Bower" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
