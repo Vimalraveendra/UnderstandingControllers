@@ -15,5 +15,12 @@ namespace UnderstandingControllers.Controllers
         {
             return View();
         }
+
+        public IActionResult ReceivedDataByRequest()
+        {
+            string name = Request.Form["name"];
+            string sex = Request.Form["sex"];
+            return View("ReceivedDataByRequest", $"{name} sex is {sex}");
+        }
     }
 }
