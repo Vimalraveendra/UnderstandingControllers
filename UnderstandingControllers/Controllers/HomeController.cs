@@ -22,5 +22,10 @@ namespace UnderstandingControllers.Controllers
             string sex = Request.Form["sex"];
             return View("ReceivedDataByRequest", $"{name} sex is {sex}");
         }
+
+        public IActionResult ReceivedDataByParameter(string name, string sex)
+        {
+            return View("ReceivedDataByParameter", $"{name} sex is {sex}");
+        }
     }
 }
