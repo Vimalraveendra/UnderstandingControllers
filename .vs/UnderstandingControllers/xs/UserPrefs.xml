@@ -2,11 +2,12 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingControllers/Views/Home/ReceivedDataByRequest.cshtml">
     <Files>
       <File FileName="UnderstandingControllers/Program.cs" Line="1" Column="1" />
-      <File FileName="UnderstandingControllers/Startup.cs" Line="37" Column="30" />
-      <File FileName="UnderstandingControllers/Controllers/HomeController.cs" Line="18" Column="1" />
+      <File FileName="UnderstandingControllers/Startup.cs" />
+      <File FileName="UnderstandingControllers/Controllers/HomeController.cs" Line="31" Column="2" />
       <File FileName="UnderstandingControllers/Properties/launchSettings.json" />
-      <File FileName="UnderstandingControllers/Views/Home/Index.cshtml" Line="28" Column="11" />
-      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataByRequest.cshtml" Line="16" Column="8" />
+      <File FileName="UnderstandingControllers/Views/Home/Index.cshtml" Line="15" Column="68" />
+      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataByRequest.cshtml" Line="1" Column="1" />
+      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataParameter.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
