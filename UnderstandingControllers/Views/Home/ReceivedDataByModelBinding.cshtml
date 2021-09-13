@@ -1,4 +1,4 @@
-﻿@model string;
+﻿@model Person
 @{
     Layout = null;
 }
@@ -8,9 +8,9 @@
 <html>
 <head>
     <meta name="viewport" content="width=device-width" />
-    <title>ReceivedDataByRequest</title>
+    <title>ReceivedDataByModelBinding</title>
 </head>
 <body>
-    <h1>@Model</h1>
+    <h1>@Model.name sex is @Model.sex</h1>
 </body>
 </html>

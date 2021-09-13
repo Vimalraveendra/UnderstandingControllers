@@ -1,26 +1,24 @@
 ﻿<Properties StartupConfiguration="{CCE3A1F9-A69E-4ACD-B312-508DD3BB20EC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingControllers/Views/Home/ReceivedDataByRequest.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnderstandingControllers/Views/_ViewImports.cshtml">
     <Files>
-      <File FileName="UnderstandingControllers/Program.cs" Line="1" Column="1" />
-      <File FileName="UnderstandingControllers/Startup.cs" />
-      <File FileName="UnderstandingControllers/Controllers/HomeController.cs" Line="31" Column="2" />
-      <File FileName="UnderstandingControllers/Properties/launchSettings.json" />
+      <File FileName="UnderstandingControllers/Controllers/HomeController.cs" Line="34" Column="52" />
       <File FileName="UnderstandingControllers/Views/Home/Index.cshtml" Line="15" Column="68" />
-      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataByRequest.cshtml" Line="1" Column="1" />
-      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataParameter.cshtml" Line="1" Column="1" />
+      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataByRequest.cshtml" Line="1" Column="15" />
+      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataParameter.cshtml" Line="16" Column="8" />
+      <File FileName="UnderstandingControllers/Models/Person.cs" Line="7" Column="40" />
+      <File FileName="UnderstandingControllers/Views/Home/ReceivedDataByModelBInding.cshtml" Line="3" Column="11" />
+      <File FileName="UnderstandingControllers/Views/_ViewImports.cshtml" Line="3" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="UnderstandingControllers" expanded="True">
             <Node name="UnderstandingControllers" expanded="True">
-              <Node name="Dependencies" expanded="True" />
               <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+              <Node name="Models" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Home" expanded="True">
-                  <Node name="ReceivedDataByRequest.cshtml" selected="True" />
-                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="_ViewImports.cshtml" selected="True" />
               </Node>
             </Node>
           </Node>

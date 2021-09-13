@@ -10,10 +10,12 @@
     <None Remove="Views\Home\" />
     <None Remove="Cake.LibMan" />
     <None Remove="Bower" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="Views\" />
     <Folder Include="Views\Home\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>
